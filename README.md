@@ -1,1 +1,2 @@
 # AspnetmvcRepositorioJR
+testataan versionhallinnan toimintaa
